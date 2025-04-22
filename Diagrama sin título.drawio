@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="_6eM13sWSFtvgrzX14ZX">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-1" value="Dar al usuario numero positivo o negativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="80" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-6" value="Pedir al usuario que ingrese un numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="120" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-7" value="Valor ingresado es un número válido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="180" as="sourcePoint" />
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394.5" y="330" as="sourcePoint" />
+            <mxPoint x="394.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-12" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-13" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-14" value="Ingrese un numero válido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-15" value="El número es menor que 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-16" value="El numero es igual a cero" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-17" value="El número es mayor que cero" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="439.5" as="sourcePoint" />
+            <mxPoint x="490" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-19" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-20" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-JwGNTHv3zOCgEI-EXCk-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="489" as="sourcePoint" />
+            <mxPoint x="434" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394.5" y="620" as="sourcePoint" />
+            <mxPoint x="395.5" y="651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-26" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-27" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="569.5" as="sourcePoint" />
+            <mxPoint x="490" y="569.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="709.5" as="sourcePoint" />
+            <mxPoint x="490" y="709.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-30" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-31" value="El número es negativo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-32" value="El número es igual a cero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-JwGNTHv3zOCgEI-EXCk-33" value="El número es mayor que cero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

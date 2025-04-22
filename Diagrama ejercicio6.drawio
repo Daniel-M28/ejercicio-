@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="MCNMWkD9SktcHK1ydzE1">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-1" target="2SGfrQGv5nas4mAmKdPz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-1" value="Adivinanza de numero para el usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-2" target="2SGfrQGv5nas4mAmKdPz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-2" value="Solicitar al usuario que ingrese un número" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-3" target="2SGfrQGv5nas4mAmKdPz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-3" value="Definir el numero a adivinar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-4" target="2SGfrQGv5nas4mAmKdPz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-4" target="2SGfrQGv5nas4mAmKdPz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-4" value="El número ingresado es un valor válido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-5" target="2SGfrQGv5nas4mAmKdPz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-5" target="2SGfrQGv5nas4mAmKdPz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-5" value="El número ingresado es&amp;nbsp; menor que el numero definido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="510" width="126" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-6" target="2SGfrQGv5nas4mAmKdPz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-6" target="2SGfrQGv5nas4mAmKdPz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-6" value="El número ingresado es&amp;nbsp; mayor que el numero definido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="650" width="130" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2SGfrQGv5nas4mAmKdPz-7" target="2SGfrQGv5nas4mAmKdPz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-7" value="El número ingresado es igual al número definido&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="800" width="130" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-8" value="número adivinado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-10" value="Ingresa un número válido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="385" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-11" value="el número es menor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="677.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-12" value="El número es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="537.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-23" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-24" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="404" y="450" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-25" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-26" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="537.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-27" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-28" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="760" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SGfrQGv5nas4mAmKdPz-29" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="915" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

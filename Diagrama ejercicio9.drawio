@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="Página-1" id="UeSl6h07qc7Ymivv8bMq">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-1" target="0OUhZVdqzJS_Dd5t0awI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-1" value="Determinar si un año es bisiesto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-2" target="0OUhZVdqzJS_Dd5t0awI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-2" value="Solicita al usuario ingresar un año" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-3" target="0OUhZVdqzJS_Dd5t0awI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-3" target="0OUhZVdqzJS_Dd5t0awI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-3" value="el valor ingresado es correcto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-4" value="ingresa un año correcto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-6" target="0OUhZVdqzJS_Dd5t0awI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0OUhZVdqzJS_Dd5t0awI-6" target="0OUhZVdqzJS_Dd5t0awI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-6" value="el año es divisible entre 4 con residuo 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-7" value="El año no es bisiesto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-9" value="El año es bisiesto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-18" value="&lt;div&gt;NO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-19" value="&lt;div&gt;NO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-20" value="&lt;div&gt;SI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0OUhZVdqzJS_Dd5t0awI-21" value="&lt;div&gt;SI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

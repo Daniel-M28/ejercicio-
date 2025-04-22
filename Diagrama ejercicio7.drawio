@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="dyqVrA5GCl1D7wgS-8rP">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-1" target="RI_AiMQp5WYKAtpPOHud-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-1" value="Identificar numero mayor de dos números ingresados por el usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-2" target="RI_AiMQp5WYKAtpPOHud-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-2" value="Solicitar número 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-3" target="RI_AiMQp5WYKAtpPOHud-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-3" value="Solicitar número 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-4" target="RI_AiMQp5WYKAtpPOHud-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-4" target="RI_AiMQp5WYKAtpPOHud-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-4" value="El valor ingresado es válido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-5" target="RI_AiMQp5WYKAtpPOHud-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-5" value="El valor ingresado es válido" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-6" value="ingresa un número válido" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-8" target="RI_AiMQp5WYKAtpPOHud-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-8" target="RI_AiMQp5WYKAtpPOHud-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-8" value="número 1 es mayor que número 2&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="520" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-9" target="RI_AiMQp5WYKAtpPOHud-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-9" target="RI_AiMQp5WYKAtpPOHud-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-9" value="número 2 es mayor que número 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="650" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-10" value="Número 1 es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-11" value="Número 2 es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="637.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-12" target="RI_AiMQp5WYKAtpPOHud-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-12" value="número 1 es igual&amp;nbsp; que número 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="770" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-13" value="Número 1 es igual a Número 2&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RI_AiMQp5WYKAtpPOHud-5" target="RI_AiMQp5WYKAtpPOHud-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-31" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-32" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="667.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-35" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="535" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-36" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-37" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="615" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-38" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-39" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-41" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="740" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RI_AiMQp5WYKAtpPOHud-42" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

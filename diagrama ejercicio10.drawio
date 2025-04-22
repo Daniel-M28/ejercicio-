@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="Página-1" id="nYOs-X3nh0ER55BizFx1">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-1" target="H8_ZWj87e7jQ37oOP9hu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-1" value="Determinar si el numero del usuario esta en el rango de 1 a 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-2" target="H8_ZWj87e7jQ37oOP9hu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-2" value="solicitar un numero al usuario" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-3" target="H8_ZWj87e7jQ37oOP9hu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-3" target="H8_ZWj87e7jQ37oOP9hu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-3" value="el valor ingresado es correcto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-5" target="H8_ZWj87e7jQ37oOP9hu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H8_ZWj87e7jQ37oOP9hu-5" target="H8_ZWj87e7jQ37oOP9hu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-5" value="&amp;nbsp;numero es mayor que 1 y menor que 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="400" width="126" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-6" value="el numero no esta dentro del rango" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-7" value="el numero esta dentro del rango" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-13" value="&lt;div&gt;SI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="520" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-14" value="&lt;div&gt;SI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-15" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="472" y="435" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-16" value="&lt;div&gt;NO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_ZWj87e7jQ37oOP9hu-17" value="ingresa un numero correcto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,9 +1,134 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="YSFVpUnKloiNdR3dZtz8">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-1" target="SYkmsHRFtvabVIcl3SeN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-1" value="IMC del usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-2" target="SYkmsHRFtvabVIcl3SeN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-2" value="Solicitar peso en kg&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-3" target="SYkmsHRFtvabVIcl3SeN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-3" value="Solicitar altura en m&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-4" target="SYkmsHRFtvabVIcl3SeN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-4" target="SYkmsHRFtvabVIcl3SeN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-4" value="El valor ingresado es correcto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-5" target="SYkmsHRFtvabVIcl3SeN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-5" value="El valor ingresado es correcto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-7" target="SYkmsHRFtvabVIcl3SeN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-7" value="Calcular IMC peso/(altura**2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-9" target="SYkmsHRFtvabVIcl3SeN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-9" target="SYkmsHRFtvabVIcl3SeN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-9" value="IMC &amp;lt; 18.5&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-12" target="SYkmsHRFtvabVIcl3SeN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-12" target="SYkmsHRFtvabVIcl3SeN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-12" value="IMC&amp;nbsp;&amp;gt;= 18.5 and IMC &amp;lt;= 24.9" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="780" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-13" target="SYkmsHRFtvabVIcl3SeN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-13" target="SYkmsHRFtvabVIcl3SeN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-13" value="IMC&amp;nbsp;MC &amp;gt;= 25 and IMC &amp;lt;= 29.9" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="900" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SYkmsHRFtvabVIcl3SeN-14" target="SYkmsHRFtvabVIcl3SeN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-14" value="IMC IMC &amp;gt;= 30&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="1040" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-15" value="Bajo de peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-16" value="Obesidad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1055" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-17" value="Sobre peso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="925" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-18" value="Peso normal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="810" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-32" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="470" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-33" value="Ingresa un valor correcto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="255" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-37" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-38" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-39" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="870" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-40" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1010" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-41" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-43" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-44" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-45" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-46" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SYkmsHRFtvabVIcl3SeN-47" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

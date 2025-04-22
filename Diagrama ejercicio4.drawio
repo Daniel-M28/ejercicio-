@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="3pO-5rkWeatqKTn61ge6">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-1" value="solcitar contraseñal al usuario" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-2" value="contraseña del usuario correcta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-3" value="contraseña es &quot;Python123&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-4" value="contraseña correcta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-5" value="contraseña incorrecta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="420" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="K5RqKuQ0prYc9vp6-njJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="110" as="sourcePoint" />
+            <mxPoint x="406" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="220" as="sourcePoint" />
+            <mxPoint x="406" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.5" y="370" as="sourcePoint" />
+            <mxPoint x="404.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5RqKuQ0prYc9vp6-njJ-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="K5RqKuQ0prYc9vp6-njJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="320" as="sourcePoint" />
+            <mxPoint x="459" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
